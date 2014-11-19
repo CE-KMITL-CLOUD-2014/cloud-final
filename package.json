@@ -1,0 +1,6 @@
+{
+ "name": "cloud-final",
+ "dependencies": {
+   "request": "*"
+ }
+}
